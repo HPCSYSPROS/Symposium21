@@ -7,8 +7,13 @@
 
 ### [HPC Journey to the cloud]() 
 **Presented by:** John Finigan, UC Denver
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5553098.svg)](https://doi.org/10.5281/zenodo.5553098)
+
 ### [Open Storage Network]() 
 **Presented by:** Kevin Coakley, SDSC; Jim Culbert, MGHPCC; John Goodhue, MGHPCC
+
+
 ### [HPC Ethernet]()
 **Presented by:** Ben Matthews, NCAR
 
